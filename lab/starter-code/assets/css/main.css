@@ -2235,7 +2235,6 @@ input, select, textarea {
 			#main > section.one {
 				/* background-color: #81918E; */
 				/* background-image: url(""); */
-	
 			}
 
 			#main > section.two {
@@ -2609,4 +2608,8 @@ input, select, textarea {
 					margin-top: 0;
 				}
 
+	}
+
+	.important {
+		color: rgb(41, 40, 40) !important; 
 	}
